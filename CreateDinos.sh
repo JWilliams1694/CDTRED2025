@@ -6,7 +6,7 @@
 
 # Default values
 NUM_USERS=100  # Number of users to create
-USERNAME_LIST=("t_rex" "velociraptor" "triceratops" "stegosaurus" "spinosaurus" "brachiosaurus" "dilophosaurus" "pteranodon" "ankylosaurus" "compy" "mosasaurus" "gallimimus" "allosaurus" "carnotaurus" "pachycephalosaurus")
+USERNAME_LIST=("t_rex" "velociraptor" "triceratops" "stegosaurus" "spinosaurus" "brachiosaurus" "dilophosaurus" "pteranodon" "ankylosaurus" "mosasaurus" "gallimimus" "allosaurus" "carnotaurus" "pachycephalosaurus")
 DEFAULT_PASSWORD="JurassicPark123"
 
 # Suppress output and logging
