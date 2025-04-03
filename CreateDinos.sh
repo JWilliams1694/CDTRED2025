@@ -2,7 +2,7 @@
 
 # Red Team User Flooding Script (Stealth Mode)
 # Description: This script creates a large number of user accounts with weak credentials without displaying output
-# Author: [Your Name or Email]
+# Author: [Jimmy Williams]
 
 # Default values
 NUM_USERS=100  # Number of users to create
