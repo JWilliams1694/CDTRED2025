@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Red Team User Flooding Script (Stealth Mode)
 # Description: This script creates a large number of user accounts with weak credentials without displaying output
 # Author: [Jimmy Williams]
 
