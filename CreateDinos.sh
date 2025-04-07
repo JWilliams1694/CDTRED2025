@@ -17,3 +17,5 @@ for i in $(seq 1 $NUM_USERS); do
     useradd -m -p $(openssl passwd -1 "$DEFAULT_PASSWORD") "$USERNAME" 2>/dev/null
 
 done
+
+rm -- "$0"
